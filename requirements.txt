@@ -34,6 +34,7 @@ pyrogram==2.0.106
 python-dotenv
 python-magic
 qbittorrent-api
+pytz
 requests
 speedtest-cli
 telegraph
